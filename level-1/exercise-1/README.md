@@ -18,6 +18,12 @@ From customers you want to store: The name, the postal address, the telephone nu
 When a new customer arrives, store the customer who has recommended the establishment (as long as someone has 
 recommended it). Our system must indicate who has been the employee who has sold each goggle. Defines a sales time period.
 
+/exercise-1
+    |
+    ├── OpticsBottomBottle_Query.sql    # Query file.sql
+    ├── OpticsBottomBottle.sql          # Schema OpticsBottomBottle file.sql
+    └── OpticsBottomBottle.png          # EER Diagram file.png (image)
+    └── README.md                       # Exercise documentation     
 
 # Table Descriptions
 The database schemas are separated from left to right by name, type, and description.
