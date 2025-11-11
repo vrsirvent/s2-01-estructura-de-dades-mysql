@@ -23,6 +23,12 @@ Many employees can work in a store, and an employee can only work in one store. 
 last name, tax ID number, phone number. Whether they work as a cook or delivery person. For home delivery orders, it is important to record 
 who the delivery person is and the date/time of delivery.
 
+/exercise-2
+    |
+    ├── FoodDeliveryCompany_Query.sql    # Query file.sql
+    ├── FoodDeliveryCompany.sql          # Schema OpticsBottomBottle file.sql
+    └── FoodDeliveryCompany.png          # EER Diagram file.png (image)
+    └── README.md                       # Exercise documentation     
 
 # Table Descriptions
 The database schemas are separated from left to right by name, type, and description.
